@@ -1,0 +1,23 @@
+@font-face {
+    font-family:"Roboto";
+    src: url(../assests/fonts/Roboto-VariableFont_wdth\,wght.ttf) format(truetype);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../assests/fonts/Roboto-VariableFont_wdth\,wght.ttf) format(truetype);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Quicksand";
+    src: url(../assests/fonts/Quicksand-VariableFont_wght.ttf) format(truetype);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "NunitoSans";
+    src: url(../assests/fonts/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf) format(truetype);
+    font-weight: 600;
+}
